@@ -1,6 +1,6 @@
 # Vnomics
 
-This project represents the final capstone project for the Data Science bachelors program at the University of Rochester.
+This project represents the final capstone project for the Data Science bachelors program at the University of Rochester that we made for the startup [Vnomics](https://www.vnomicscorp.com). Check out the final presentation PDF file named `Capstone Final Presentation` or `Vnomics 1 Final Report` for motivations and intuitive visuals for understanding this project.
 
 ### Steps to run the files:
 - to reproduce the model performance: run all the code in Comprehensive_Model_Testing.ipynb

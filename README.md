@@ -8,7 +8,6 @@ This project represents the final capstone project for the Data Science bachelor
 - please ignore cells relevant to hyperopt, if MLOps is not in your library (usually they will be the first five cells in each autoencoder section)
 	For example, the run_dense(n) function requires hyperopt to run. These functions are for hyperparameter tuning. We have already saved the output from MLflow. Please feel free to just run the training. 
 - The data files involved are “vehicle_list.csv” and “X_tsf_window_20_comprehensive_label.csv”. 
-- please feel free to email lye11@u.rochester.edu if you have any other problems running the code. 
 
 
 ### Additional information: 
